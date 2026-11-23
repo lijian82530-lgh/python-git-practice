@@ -8,3 +8,5 @@ Learning GitHub synchronization.
 
 - main.py
 - calculator.py
+- multi done
+- divi following
