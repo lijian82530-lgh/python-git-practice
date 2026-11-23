@@ -8,7 +8,7 @@ def function(a,b):
 
 print(function(1, 2))"""
 
-import datetime
+"""import datetime
 datetime.da
 
 print("main.py 开始运行")
@@ -17,4 +17,7 @@ result1 = calculate.addi(100, 50)
 result2 = calculate.subi(100, 50)
 
 print("加法结果:", result1)
-print("减法结果:", result2)
+print("减法结果:", result2)"""
+
+def add(a, b):
+    return a + b # zhu gong neng
