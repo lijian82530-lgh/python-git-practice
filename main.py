@@ -21,3 +21,5 @@ print("减法结果:", result2)"""
 
 def add(a, b):
     return a + b # zhu gong neng
+
+#add one commit with calulate together
