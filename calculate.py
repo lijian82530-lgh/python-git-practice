@@ -21,3 +21,5 @@ if __name__ == "__main__":
     print(mult(2,6))
     print(divi(99, 11))
     # zoule tiaoshi
+
+    print(divi(99, 0))
